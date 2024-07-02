@@ -1,0 +1,434 @@
+.a{
+    border:2px solid black;
+    height:1450px;
+    width:1450px;
+    background-color: rgb(226, 230, 209);
+}
+.b{
+    border:2px solid black;
+    height: 60px;
+    width:1450px;
+    color: aliceblue;
+    background-color: rgba(32, 191, 69, 0.604);
+    background-image: url(./image/b10.jpg);
+}
+.c{
+    border:2px solid black;
+    height:80px;
+    width:1450px;
+}
+
+.e{
+    border:2px solid black;
+    height:500px;
+    width:1450px;
+    margin-top: 50px;
+    background-image:url(./image/dress.jpg);
+    background-size: 100% 100%;
+}
+.f{
+    border:2px solid black;
+    height:300px;
+    width:550px;
+    margin-top: 95px;
+    margin-left:150px;
+    background-color: white;
+    background-image: url(./image/bg14.jpg);
+    color:white;
+}
+.g{
+    border:2px solid black;
+    height:500px;
+    width:1450px;
+   background-image: url(./image/bg4.jpg);
+   background-size: 100% 100%;
+   color:white;
+}
+.i{
+    border:2px solid rgb(86, 201, 10);
+    height:280px;width:230px;float: left;margin-left:150px;
+    background-image:linear-gradient(to top rgba(0, 255, 200, 0.699),rgb(133, 133, 11));
+}
+.j{
+    border:2px solid rgb(86, 201, 10);
+    height:280px;width:230px;float: left;margin-left:60px;
+   
+}
+.h{
+    border:2px solid black;
+    height: 7px;
+    width:7px;
+    border-radius: px;
+    margin-left: 5px;
+    float:left;
+}
+.l{
+    border:2px solid black;
+    height:30px;
+    width:80px;
+    margin-top:330px;
+    margin-left:47%;
+}
+.k{
+    border:2px solid black;
+    height:330px;
+    width:1450px;
+    background-image:url(./image/bg1.jpg);
+    color:aliceblue;
+    margin-top:0px;;
+}
+.m{
+    border:2px solid black;
+    height:110px;
+    width:1450px;
+    background-image: url(./image/bg6.jpg);
+    color:white;
+}
+
+::placeholder{
+        color: white;
+    }
+.p{
+    height:200px;
+    width:200px;
+    margin-left:15px;
+    margin-top: 15px;
+}
+.q{
+    text-align: center;
+    font-size:20px;
+    padding-top: 20px;
+}
+.logo{
+    font-size:48px;
+    color:rgb(17, 100, 121);
+    margin-left:620px;
+    margin-top:20px;
+}
+.color{
+    padding-left:50px;
+    float:left;
+    padding-top:5px;
+    color:rgb(17, 100, 121)
+}
+.color1{
+    padding-left:500px;
+    float:left;
+    padding-top:5px;
+    color:rgb(17, 100, 121)
+}
+.hr{
+    border:2px solid rgb(18, 135, 108);
+    width:30px;
+    margin-left:150px;
+    margin-top:50px;
+}
+.nav{
+    float:left;
+    padding-left:30px
+}
+.nav1{
+    float:left;
+    padding-left:30%
+}
+.icon{
+    font-size:36px;
+    margin-left:20px;
+    color:white
+}
+.icon1{
+    font-size:36px;
+    margin-left:43%;
+    margin-top:10px;
+    color:white
+}
+.spancolor{
+    color:rgb(42, 196, 137)
+}
+.button{
+    height:45px;
+    width:540px;
+    margin-left:5px;
+    background-color:white;
+    color:rgba(32, 191, 69, 0.604);
+    background-color: white;
+    border-radius:20px;
+    font-size:20px
+}
+.footer{
+    text-align:center;
+    font-size: small;
+}
+.content{
+    text-align: center;
+    font-size: 20px;
+}
+.content1{
+    text-align: center;
+    font-size: 25px;
+}
+.content2{
+    height:40px;
+    width:640px;margin-left:125px;
+    margin-top:10px;
+    background-color:rgba(32, 191, 69, 0.17);
+    border:2px solid white;
+}
+.products{
+    text-align: center;
+    font-size: 16px;
+}
+.product1{
+    padding-left:150px;
+}
+.space{
+    padding-left:50px;
+
+}
+.hr2{
+    border:2px solid rgb(47, 193, 137);
+    width:30px;
+    margin-left:50px;
+}
+.w{
+    color:black;
+    padding-top:20px
+}
+.u{
+    background-color:rgb(225, 232, 230);
+}
+.button1{
+    margin-left:50px;
+    height:40px;
+    width:140px;
+    color:white;
+    background-color:rgb(8, 73, 151);
+}
+.center{
+    padding-left:50px;
+    font-size: 20px;
+    padding-top:5px;
+}
+@media screen and (min-width:410px) and (max-width:510px) {
+    .a{
+        border:2px solid ;
+        height:1800px;
+        width:1450px;
+        background-color: rgb(204, 206, 148);
+    }
+    .b{
+        border:2px solid ;
+        height: 9%;
+        width:1450px;
+        color: aliceblue;
+        background-color: rgba(32, 191, 69, 0.604);
+        background-image: url(./image/b10.jpg);
+    }
+    .c{
+        border:2px solid ;
+        height:7%;
+        width:1450px;
+    }
+    
+    .e{
+        border:2px solid ;
+        height:800px;
+        width:1450px;
+        margin-top: 80px;
+        background-image:url(./image/dress.jpg);
+        background-size: 100% 100%;
+    }
+    .f{
+        border:2px solid ;
+        height:80%;
+        width:60%;
+        margin-top: 95px;
+        margin-left:120px;
+        background-color: white;
+        background-image: url(./image/bg14.jpg);
+        color:white;
+        background-size: 100% 100%;
+    }
+    .g{
+        border:2px solid black;
+        height:1350px;
+        width:1450px;
+       background-image: url(./image/bg4.jpg);
+       background-size: 100% 100%;
+       color:white;
+    }
+    .i{
+        border:2px solid rgb(86, 201, 10);
+        height:520px;width:550px;float: left;margin-left:130px;
+        background-image:linear-gradient(to top rgba(0, 255, 200, 0.699),rgb(133, 133, 11));
+        margin-top: 15px;
+    }
+    
+    .j{
+        border:2px solid rgb(86, 201, 10);
+        height:520px;width:550px;float: left;margin-left:90px;
+        margin-top: 15px;
+       
+    }
+    .h{
+        border:2px solid white;
+        height: 7px;
+        width:7px;
+        border-radius: px;
+        margin-left: 20px;
+        float:left;
+        margin-top: 50px;
+    }
+    .l{
+        border:2px solid black;
+        height:100px;
+        width:100px;
+    }
+    .k{
+        border:2px solid ;
+        height:530px;
+        width:1450px;
+        background-image:url(./image/bg1.jpg);
+        color:aliceblue;
+        margin-top:0px;;
+    }
+    .m{
+        border:2px solid black;
+        height:180px;
+        width:1450px;
+        background-image: url(./image/bg6.jpg);
+        color:white;
+    }
+    
+    ::placeholder{
+            color: white;
+        }
+    .p{
+        height:380px;
+        width:460px;
+        margin-left:40px;
+        margin-top: 35px;
+    }
+    .q{
+        text-align: center;
+        font-size:33px;
+        padding-top: 20px;
+    }
+    .logo{
+        font-size:68px;
+        color:rgb(17, 100, 121);
+        margin-left:620px;
+        margin-top:20px;
+    }
+    .color{
+        padding-left:50px;
+        float:left;
+        padding-top:0px;
+        color:rgb(17, 100, 121);
+        font-size:30px;
+    }
+    .color1{
+        padding-left:400px;
+        float:left;
+        padding-top:0px;
+        color:rgb(17, 100, 121);
+        font-size:30px;
+    }
+    .hr{
+        border:5px solid rgb(18, 135, 108);
+        width:100px;
+        margin-left:120px;
+        margin-top:50px;
+    }
+    .nav{
+        float:left;
+        padding-left:30px;
+        font-size:30px;
+    }
+    .nav1{
+        float:left;
+        padding-left:20%;
+        font-size:30px;
+    }
+    .icon{
+        font-size:56px;
+        margin-left:20px;
+        color:white
+    }
+    .icon1{
+        font-size:56px;
+        margin-left:43%;
+        margin-top:10px;
+        color:white
+    }
+    .spancolor{
+        color:rgb(42, 196, 137)
+    }
+    .button{
+        height:60px;
+        width:540px;
+        margin-left:5px;
+        background-color:white;
+        color:rgba(32, 191, 69, 0.604);
+        background-color: white;
+        border-radius:25px;
+        font-size:30px
+    }
+    .footer{
+        text-align:center;
+        font-size:30px;;
+    }
+    .content{
+        text-align: center;
+        font-size: 35px;
+    }
+    .content1{
+        text-align: center;
+        font-size: 50px;
+    }
+    .content2{
+        height:50px;
+        width:640px;margin-left:125px;
+        margin-top:10px;
+        background-color:rgba(32, 191, 69, 0.17);
+        border:2px solid white;
+        font-size: 30px;
+    }
+    .products{
+        text-align: center;
+        font-size: 30px;
+    }
+    .product1{
+        padding-left:150px;
+        font-size:30px;
+    }
+    .space{
+        padding-left:50px;
+        font-size:35px;
+    }
+    .hr2{
+        border:2px solid rgb(47, 193, 137);
+        width:50px;
+        margin-left:50px;
+    }
+    .w{
+        color:black;
+        padding-top:20px
+    }
+    .u{
+        background-color:rgb(225, 232, 230);
+    }
+    .button1{
+        margin-left:50px;
+        height:50px;
+        width:180px;
+        color:white;
+        background-color:rgb(8, 73, 151);
+        font-size:20px;
+    }
+    .center{
+        padding-left:50px;
+        font-size: 30px;
+        padding-top:5px;
+    }
+}
